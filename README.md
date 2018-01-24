@@ -12,8 +12,8 @@ Process:
 4. Gather web pages about the topic by crawling the Seed set 
 5. Rank them according to relevance
 
-Output: 
-Download top n successfully crawled WebPages in a folder
+Output:
+1. Download top n successfully crawled web pages in a folder
 
 Classes:
 1. Crawler - Crawls the web using seed analysis and link analysis
